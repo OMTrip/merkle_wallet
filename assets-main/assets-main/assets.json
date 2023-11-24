@@ -67,7 +67,7 @@
     "token_address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
     "possible_spam": false,
     "thumbnail": null,
-    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/bsc/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc/logo.png",
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/bsc/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
 
@@ -77,7 +77,7 @@
     "chainId": "0x1",
     "slug": "ethereum",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc_testnet/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "name": "Tether USD",
     "possible_spam": false,
@@ -92,7 +92,7 @@
     "chainId": "0x1",
     "slug": "ethereum",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc_testnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "name": "USDC",
     "possible_spam": false,
