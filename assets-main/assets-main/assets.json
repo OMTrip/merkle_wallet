@@ -32,7 +32,7 @@
     "chainId": "0x38",
     "slug": "bsc",
     "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc_testnet/0x42dABca1aF369FBd9e8Ea286dAFBA45b23fC92D9/logo.png",
+    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/bsc/0x42dABca1aF369FBd9e8Ea286dAFBA45b23fC92D9/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "name": "Big Tycoon",
     "possible_spam": false,
@@ -47,7 +47,7 @@
     "chainId": "0x38",
     "slug": "bsc",
     "decimals": 18,
-    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/bsc/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc/logo.png",
+    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/bsc/0x672147dD47674757C457eB155BAA382cc10705Dd/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "name": "USD Coin",
     "possible_spam": false,
@@ -67,7 +67,7 @@
     "token_address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
     "possible_spam": false,
     "thumbnail": null,
-    "logo": "https://raw.githubusercontent.com/Nute-Wallet/assets/main/images/bsc/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc/logo.png",
+    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/bsc/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
 
