@@ -1,32 +1,20 @@
 [
   {
     "balance": 0,
-    "chainId": "0x775",
-    "slug": "merkle",
+    "chainId": "0x89",
+    "slug": "polygon",
     "decimals": 18,
-    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/merkle/0xbB96b900EF03507b530D158cc5A0B0C8c3a8D178/logo.png",
+    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/polygon/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-    "name": "Big Tycoon",
+    "name": "Teher USD",
     "possible_spam": false,
     "show": false,
     "type": "token",
-    "symbol": "BTYC",
-    "thumbnail": null,
-    "token_address": "0xbB96b900EF03507b530D158cc5A0B0C8c3a8D178"
-  },
-  {
-    "balance": 0,
-    "chainId": "0x775",
-    "decimals": 18,
-    "slug": "merkle",
-    "name": "USD Token",
     "symbol": "USDT",
-    "token_address": "0x6df18D490a91Bc496C219b11fF15b043938C18Cf",
-    "possible_spam": false,
     "thumbnail": null,
-    "logo":"https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/merkle/0x6df18D490a91Bc496C219b11fF15b043938C18Cf/logo.png",
-    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    "token_address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
   },
+ 
   {
     "balance": 0,
     "chainId": "0x38",
