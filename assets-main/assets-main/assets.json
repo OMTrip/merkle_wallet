@@ -4,7 +4,7 @@
     "chainId": "0x89",
     "slug": "polygon",
     "decimals": 18,
-    "logo": "https://github.com/OMTrip/merkle_wallet/blob/main/assets-main/assets-main/images/polygon/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png",
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/polygon/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "name": "Teher USD",
     "possible_spam": false,
