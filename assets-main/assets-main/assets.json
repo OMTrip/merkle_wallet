@@ -89,6 +89,21 @@
     "symbol": "USDC",
     "thumbnail": null,
     "token_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+  },
+  {
+    "balance": 0,
+    "chainId": "0x775",
+    "slug": "merkle",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/merkle/0xbB96b900EF03507b530D158cc5A0B0C8c3a8D178/logo.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "Big Tycoon",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "BTYC",
+    "thumbnail": null,
+    "token_address": "0xbB96b900EF03507b530D158cc5A0B0C8c3a8D178"
   }
 
  
