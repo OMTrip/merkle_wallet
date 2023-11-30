@@ -14,37 +14,6 @@
     "thumbnail": null,
     "token_address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
   },
- 
-  {
-    "balance": 0,
-    "chainId": "0x38",
-    "slug": "bsc",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/bsc/0x42dABca1aF369FBd9e8Ea286dAFBA45b23fC92D9/logo.png",
-    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-    "name": "Big Tycoon",
-    "possible_spam": false,
-    "show": false,
-    "type": "token",
-    "symbol": "BTYC",
-    "thumbnail": null,
-    "token_address": "0x42dABca1aF369FBd9e8Ea286dAFBA45b23fC92D9"
-  },
-  {
-    "balance": 0,
-    "chainId": "0x38",
-    "slug": "bsc",
-    "decimals": 18,
-    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/bsc/0x672147dD47674757C457eB155BAA382cc10705Dd/logo.png",
-    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-    "name": "USD Coin",
-    "possible_spam": false,
-    "show": false,
-    "type": "token",
-    "symbol": "USDC",
-    "thumbnail": null,
-    "token_address": "0x672147dD47674757C457eB155BAA382cc10705Dd"
-  },
   {
     "balance": 0,
     "chainId": "0x38",
@@ -58,7 +27,6 @@
     "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/bsc/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc/logo.png",
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
-
 
   {
     "balance": 0,
@@ -92,6 +60,21 @@
   },
   {
     "balance": 0,
+    "chainId": "0x38",
+    "slug": "bsc",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/bsc/0x672147dD47674757C457eB155BAA382cc10705Dd/logo.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "USD Coin",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "USDC",
+    "thumbnail": null,
+    "token_address": "0x672147dD47674757C457eB155BAA382cc10705Dd"
+  },
+  {
+    "balance": 0,
     "chainId": "0x775",
     "slug": "merkle",
     "decimals": 18,
@@ -104,7 +87,20 @@
     "symbol": "BTYC",
     "thumbnail": null,
     "token_address": "0xbB96b900EF03507b530D158cc5A0B0C8c3a8D178"
+  },
+  {
+    "balance": 0,
+    "chainId": "0x38",
+    "slug": "bsc",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/bsc/0x42dABca1aF369FBd9e8Ea286dAFBA45b23fC92D9/logo.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "Big Tycoon",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "BTYC",
+    "thumbnail": null,
+    "token_address": "0x42dABca1aF369FBd9e8Ea286dAFBA45b23fC92D9"
   }
-
- 
 ]
