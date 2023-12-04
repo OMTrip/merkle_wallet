@@ -117,5 +117,36 @@
     "symbol": "BTYC",
     "thumbnail": null,
     "token_address": "0x42dABca1aF369FBd9e8Ea286dAFBA45b23fC92D9"
+  },
+  {
+    "balance": 0,
+    "chainId": "0x775",
+    "slug": "merkle",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/merkle/0xC4B16708A2356e27178B34D9de406F850c317168/logo.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "Big Shot",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "BSBT",
+    "thumbnail": null,
+    "token_address": "0xC4B16708A2356e27178B34D9de406F850c317168"
+  },
+  {
+    "balance": 0,
+    "chainId": "0x775",
+    "slug": "merkle",
+    "decimals": 18,
+    "logo": "https://raw.githubusercontent.com/OMTrip/merkle_wallet/main/assets-main/assets-main/images/merkle/0x1B1D576Bb6a1E364Ea4674e7A77fECB4BDf2bF08/logo.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "BUZZBT",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "BUBT",
+    "thumbnail": null,
+    "token_address": "0x1B1D576Bb6a1E364Ea4674e7A77fECB4BDf2bF08"
   }
+ 
 ]
