@@ -10,7 +10,7 @@
       "blockExplorerUrl": "https://merklescan.com/",
       "networkVersion": "1909",
       "slug": "merkle",
-      "show": false,
+      "show": true,
       "nativeCurrency": {
         "name": "Merkle",
         "symbol": "MRK",

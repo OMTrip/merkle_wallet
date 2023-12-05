@@ -112,7 +112,7 @@
     "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "name": "Big Shot",
     "possible_spam": false,
-    "show": true,
+    "show": false,
     "type": "token",
     "symbol": "BSBT",
     "thumbnail": null,
