@@ -82,6 +82,26 @@
       },
       "tokens": [],
       "nfts": []
+    },
+    {
+      "name": "BNB Smart Chain Testnet",
+      "mainnet": false,
+      "show": true,
+      "slug": "bsc_testnet",
+      "networkVersion": "97",
+      "chainId": "0x61",
+      "rpcUrl": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+      "blockExplorerUrl": "https://testnet.bscscan.com",
+      "nativeCurrency": {
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "bsc_testnet"
+      },
+      "tokens": [],
+      "nfts": []
     }
   ]
   
